@@ -1,4 +1,4 @@
-# Proxy List - Updated: 2025-10-26 12:45:40
+# Proxy List - Updated: 2025-10-26 18:32:11
 # Total proxies: 95
 # Sources used: 3
 
